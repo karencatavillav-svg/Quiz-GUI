@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Oct 06 20:48:10 COT 2026
+comment0.target=Vehiculo
+comment1.params=marca linea modelo valor foto
+comment1.target=Vehiculo(java.lang.String, java.lang.String, int, double, java.lang.String)
+comment2.target=java.lang.String getMarca()
+comment3.target=java.lang.String getLinea()
+comment4.target=int getModelo()
+comment5.target=double getValor()
+comment6.target=java.lang.String getFoto()
+numComments=7

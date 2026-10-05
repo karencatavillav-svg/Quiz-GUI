@@ -1,0 +1,18 @@
+#BlueJ class context
+#Tue Nov 24 11:12:46 COT 2026
+comment0.target=JFImpuestos
+comment1.target=JFImpuestos()
+comment10.params=texto
+comment10.target=javax.swing.JLabel crearValor(java.lang.String)
+comment2.target=void estructura()
+comment3.target=javax.swing.JPanel crearPanelDatos()
+comment4.target=javax.swing.JPanel crearPanelBusquedas()
+comment5.target=javax.swing.JPanel crearPanelDescuentos()
+comment6.target=javax.swing.JPanel crearPanelOpciones()
+comment7.params=ruta ancho alto
+comment7.target=javax.swing.ImageIcon cargarImagen(java.lang.String, int, int)
+comment8.params=texto
+comment8.target=javax.swing.border.TitledBorder titulo(java.lang.String)
+comment9.params=texto
+comment9.target=javax.swing.JLabel crearEtiqueta(java.lang.String)
+numComments=11
